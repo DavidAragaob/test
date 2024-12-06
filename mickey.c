@@ -4,15 +4,17 @@ int main(void){
 
 	int age;
 	
-	printf("”N—î‚ð“ü—Í->");
+	printf("ï¿½Nï¿½ï¿½ï¿½ï¿½ï¿½ï¿½->");
 	scanf("%d", &age);
 	
 	if (age >=18){
-		printf("‘ål‚Å‚·B");
+		printf("ï¿½ï¿½lï¿½Å‚ï¿½ï¿½B");
 	}
 	else {
-		printf("‘ål‚¶‚á‚È‚¢‚Å‚·B");
+		printf("ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½È‚ï¿½ï¿½Å‚ï¿½ï¿½B");
 	}
 
 return 0;
 }
+
+ãŸã‹ã‚„ãªãŽã“ã®ã‚³ãƒ¼ãƒ‰ã‚’æ›¸ã„ãŸ
